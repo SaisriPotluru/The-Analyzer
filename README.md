@@ -52,6 +52,7 @@ The steps involved in the process are as follows:
 ## 7.Top five nearest cuisine's for the given ingredients 
   For obtaining the cusines,I have used "cosine_similarity" function to calculate the distance of the ingredients to the all set of data by which we could know the best ID's of them.Then those arrays are converted into a dataframe and top five most similar ID's along with their distances are returned.
   
+  
 # Assumptions
 - while giving the input it should be in a string format """a b c """
 
