@@ -1,5 +1,5 @@
-# -cs5293sp20-project3
-## The Analyzer 
+
+# The Analyzer 
    This hotel chain is well-known for its variety of foods. Experts have claimed that tweaking the menu can improve success by 15%.By this project we could be able to predict the cuisine type based on the ingredients provided and also the nearest Ids of the cuisines.
    
 # Author   
